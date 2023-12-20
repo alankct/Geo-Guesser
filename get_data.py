@@ -87,7 +87,7 @@ job_info = {
     "Vietnam": 400,
     "New Zealand": 700
 }
-token = "AIzaSyCwSVD_hlYg7gyrX4T-o238E2gMVwcIiCY"
+token = "xxxxxxxx"
 
 
 def get_iso_code(country_name):
